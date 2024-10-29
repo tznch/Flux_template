@@ -6,7 +6,7 @@
 
 # Packages are installed after nodes so we can fix them...
 
-DEFAULT_WORKFLOW="https://www.patreon.com/file?h=113743435&m=370970302"
+DEFAULT_WORKFLOW="https://raw.githubusercontent.com/tznch/Flux_template/refs/heads/main/testwork.json"
 
 APT_PACKAGES=(
     #"package-1"
