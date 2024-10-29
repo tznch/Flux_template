@@ -46,11 +46,11 @@ ESRGAN_MODELS=(
 )
 
 CONTROLNET_MODELS=(
-    https://huggingface.co/Shakker-Labs/FLUX.1-dev-ControlNet-Union-Pro/resolve/main/diffusion_pytorch_model.safetensors
+    "https://huggingface.co/Shakker-Labs/FLUX.1-dev-ControlNet-Union-Pro/resolve/main/diffusion_pytorch_model.safetensors"
 )
 
 UPSCALE_MODELS=(
-    https://mega.nz/folder/Xc4wnC7T#yUS5-9-AbRxLhpdPW_8f2w
+    "https://huggingface.co/skbhadra/ClearRealityV1/resolve/main/4x-ClearRealityV1.pth"
 )
 
 ### DO NOT EDIT BELOW HERE UNLESS YOU KNOW WHAT YOU ARE DOING ###
